@@ -12,7 +12,9 @@ title{
     font-size: 18px;
 }
 
-
+body{
+    width: 100%;
+}
 .navi{
     display: flex;
     list-style: none;
@@ -21,14 +23,14 @@ title{
     margin-right: 50px;
     gap: 30px;
     color: #c5cad5;
-    font-size: 24px;
+    font-size: 18px;
     padding: 25px;
 
 
 }
 .logo{
     margin-right: auto;
-    font-size: 24px;
+    font-size: 20px;
     color: #F9FAF8;
     font-weight: bold;
 }
@@ -57,7 +59,7 @@ h2{
 
 p{
     line-height: 50px;
-    font-size: 24px;
+    font-size: 18px;
     margin-top: 20px;
 }
 
@@ -70,11 +72,11 @@ img{
 }
 
 .butt{
-    width: 128px;
+    width: 125px;
     background-color: #3882F6;
     height: 40px;
     color: white;
-    font-size: 26px;
+    font-size: 20px;
     border-radius:9px;
     border-color: #3882F6;
     margin-top: 25px;
@@ -119,11 +121,11 @@ img{
 .third{
     margin-top: 150px;
     background-color: #E5E7EB;
-   height: 50vh;
+   height: 70vh;
 }
 
 .align{
-    margin-left: 300px;
+    margin-left: 200px;
 }
 
 .inspire{
@@ -137,12 +139,12 @@ img{
     margin-right: 200px;
     text-align: end;
     font-weight: bold;
-    font-size: 35px;
+    font-size: 22px;
 }
 
 .fourth{
     background-color: #3882F6;
-    width: 1400px;
+    width: 1000px;
     margin: auto;
     margin-top: 100px;
     height: 200px;
@@ -151,14 +153,15 @@ img{
 }
 
 .call{
-    margin-left: 200px;
+    margin-left: 120px;
     padding-top: 50px;
     color: white;
     margin-bottom: 0px;
+    font-size: 24px;
 }
 
 .sign{
-    margin-left: 200px;
+    margin-left: 120px;
     margin-top: -5px;
     font-size: 22px;
     color: white;
@@ -166,14 +169,15 @@ img{
 
 .butt2{
     float: right;
-    margin-right: 350px;
-    font-size: 25px;
+    margin-right: 50px;
+    font-size: 20px;
     color: white;
     background-color: transparent;
-    width: 135px;
+    width: 130px;
     border: 2px solid white;
-    height: 45px;
+    height: 42px;
     border-radius: 5px;
+    margin-top: -60px;
 }
 
 .footer{
